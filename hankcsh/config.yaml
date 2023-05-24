@@ -19,37 +19,32 @@ menu:
         - identifier: home
           name: Home
           url: /
-          weight: 1
+          weight: -100
           params:
             icon: home
             newTab: false
-        - identifier: Resume
-          name: Resume
-          url: /cv
-          weight: 2
-          params:
-            icon: archives
-            newTab: false
-        - identifier: Publication
-          name: Publication
-          url: /pb
-          weight: 3
-          params:
-            icon: hash
-            newTab: false
 
     social:
-        - identifier: github
+        - identifier: GitHub
           name: GitHub
           url: https://github.com/HankCSH
+          weight: 1
           params:
               icon: brand-github
 
-        - identifier: researchgate
+        - identifier: ResearchGate
           name: ResearchGate
           url: https://www.researchgate.net/profile/Sou-Han-Chen
+          weight: 2
           params:
-              icon: categories
+              icon: researchgate
+        
+        - identifier: LinkedIn
+          name: LinkedIn
+          url: https://www.linkedin.com/in/hankchenhk/
+          weight: 3
+          params:
+              icon: LinkedIn
 
 params:
     mainSections:
@@ -64,7 +59,7 @@ params:
 
     sidebar:
         emoji:
-        subtitle:
+        subtitle: Research Assistant @ HKU
         avatar:
             enabled: true
             local: true
