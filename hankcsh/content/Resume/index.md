@@ -15,10 +15,16 @@ menu:
 **The University of Hong Kong, HKSAR, China**, *AUG. 2020 – MAY 2022*
 
 * Master of Science in Integrated Project Delivery
+    * keyword:
+        * BIM, Information management, Innovative technology
 
 **Hong Kong Polytechnic University (PolyU), HKSAR, China**, *SEPT. 2015 – JUNE 2019*
 
-* Bachelor of Science (Hons) in Building Engineering and Management|
+* Bachelor of Science (Hons) in Building Engineering and Management
+    * keyword: 
+        * Construction Engineering: Building structure, Construction technology & materials, Building services
+        * Project Management: Documentation & Estimating, Construction law, Real estate development
+
 
 
 # Professional Experience
